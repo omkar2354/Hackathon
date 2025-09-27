@@ -21,7 +21,7 @@ The analysis helps to understand accident severity, victim roles, accident frequ
 
 ## 📂 Dataset  
 You can access the dataset here:  
-🔗 [[Dataset Link](#)](https://github.com/omkar2354/Hackathon/blob/main/DATA%20MINDS%20-%20HACKATHON/SQL/road_accidents.sql)  
+🔗 [[Dataset Link](#)](https://github.com/omkar2354/Hackathon/blob/main/DATA%20MINDS%20-%20HACKATHON/SQL)  
 
 ---
 
