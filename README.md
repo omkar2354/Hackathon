@@ -68,10 +68,11 @@ You can access the dataset here:
 
 ## 📷 Dashboard Preview  
 ### Rainy Days  
-![Rainy Dashboard](images/rainy_dashboard.png)  
+<img width="1325" height="787" alt="rainy" src="https://github.com/user-attachments/assets/8bf19f8a-15eb-453b-9fbb-6bd0562cab26" />
+
+
 
 ### Dry Days  
-![Dry Dashboard](images/dry_dashboard.png)  
+<img width="1328" height="789" alt="dry" src="https://github.com/user-attachments/assets/2cddada3-fff0-4447-ae9b-8e8ce261c2e9" />
 
-### Comparison  
-![Comparison](images/comparison.png)  
+
