@@ -1,9 +1,9 @@
 # 🚗 Road Accident Comparison in Dry & Rainy Days  
 
 ## 👥 Team Members  
-- Vandana  
+- Omkar
 - Harsh  
-- Omkar  
+- Vandana   
 
 ---
 
